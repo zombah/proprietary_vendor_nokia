@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
  vendor/nokia/ara/proprietary/lib/hw/hwcomposer.msm8610.so:system/lib/hw/hwcomposer.msm8610.so \
  vendor/nokia/ara/proprietary/lib/hw/audio.primary.msm8610.so:system/lib/hw/audio.primary.msm8610.so \
  vendor/nokia/ara/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
- vendor/nokia/ara/proprietary/lib/hw/lights.msm8610.so:system/lib/hw/lights.msm8610.so \
  vendor/nokia/ara/proprietary/lib/hw/gralloc.msm8610.so:system/lib/hw/gralloc.msm8610.so \
  vendor/nokia/ara/proprietary/lib/hw/audio_policy.msm8610.so:system/lib/hw/audio_policy.msm8610.so \
  vendor/nokia/ara/proprietary/lib/hw/copybit.msm8610.so:system/lib/hw/copybit.msm8610.so \
@@ -219,7 +218,6 @@ PRODUCT_COPY_FILES += \
  vendor/nokia/ara/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
  vendor/nokia/ara/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_smiapp0107a303_productiontest.so:system/vendor/lib/libchromatix_smiapp0107a303_productiontest.so \
- vendor/nokia/ara/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_imx135_preview.so:system/vendor/lib/libchromatix_imx135_preview.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_smia65pp010b8b02_preview.so:system/vendor/lib/libchromatix_smia65pp010b8b02_preview.so \
  vendor/nokia/ara/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
@@ -246,7 +244,6 @@ PRODUCT_COPY_FILES += \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_smia65pp010b8b02_default_video.so:system/vendor/lib/libchromatix_smia65pp010b8b02_default_video.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_smia65pp010b8b01_liveshot.so:system/vendor/lib/libchromatix_smia65pp010b8b01_liveshot.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_ov8825_7853f_common.so:system/vendor/lib/libchromatix_ov8825_7853f_common.so \
- vendor/nokia/ara/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
  vendor/nokia/ara/proprietary/vendor/lib/libmmstillomx.so:system/vendor/lib/libmmstillomx.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so \
