@@ -429,10 +429,8 @@ PRODUCT_COPY_FILES += \
  vendor/nokia/ara/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
  vendor/nokia/ara/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
  vendor/nokia/ara/proprietary/framework/com.qualcomm.location.vzw_library.jar:system/framework/com.qualcomm.location.vzw_library.jar \
- vendor/nokia/ara/proprietary/framework/Android.mk:system/framework/Android.mk \
  vendor/nokia/ara/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
  vendor/nokia/ara/proprietary/app/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel.apk \
  vendor/nokia/ara/proprietary/app/com.qualcomm.location.apk:system/app/com.qualcomm.location.apk \
  vendor/nokia/ara/proprietary/app/com.qualcomm.services.location.apk:system/app/com.qualcomm.services.location.apk \
- vendor/nokia/ara/proprietary/app/Android.mk:system/app/Android.mk \
  vendor/nokia/ara/proprietary/app/TimeService.apk:system/app/TimeService.apk
