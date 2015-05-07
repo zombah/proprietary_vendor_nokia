@@ -422,6 +422,11 @@ PRODUCT_COPY_FILES += \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_imx135_video_hd.so:system/vendor/lib/libchromatix_imx135_video_hd.so \
  vendor/nokia/ara/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
  vendor/nokia/ara/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_default_video.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_default_video.so \
+ vendor/nokia/ara/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
+ vendor/nokia/ara/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
+ vendor/nokia/ara/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
+ vendor/nokia/ara/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
+ vendor/nokia/ara/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
  vendor/nokia/ara/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
  vendor/nokia/ara/proprietary/framework/com.qualcomm.location.vzw_library.jar:system/framework/com.qualcomm.location.vzw_library.jar \
  vendor/nokia/ara/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
