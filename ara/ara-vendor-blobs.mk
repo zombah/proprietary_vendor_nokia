@@ -21,13 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/ara/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/nokia/ara/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/nokia/ara/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/hwcomposer.msm8610.so:system/lib/hw/hwcomposer.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/audio.primary.msm8610.so:system/lib/hw/audio.primary.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/lights.msm8610.so:system/lib/hw/lights.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/gralloc.msm8610.so:system/lib/hw/gralloc.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/audio_policy.msm8610.so:system/lib/hw/audio_policy.msm8610.so \
-    vendor/nokia/ara/proprietary/lib/hw/copybit.msm8610.so:system/lib/hw/copybit.msm8610.so \
+    vendor/nokia/ara/proprietary/lib/hw/camera.vendor.msm8610.so:system/lib/hw/camera.vendor.msm8610.so \
     vendor/nokia/ara/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/nokia/ara/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/nokia/ara/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
