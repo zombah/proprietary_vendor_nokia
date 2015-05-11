@@ -238,7 +238,6 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/ara/proprietary/vendor/lib/libchromatix_smia65pp010b8b02_default_video.so:system/vendor/lib/libchromatix_smia65pp010b8b02_default_video.so \
     vendor/nokia/ara/proprietary/vendor/lib/libchromatix_smia65pp010b8b01_liveshot.so:system/vendor/lib/libchromatix_smia65pp010b8b01_liveshot.so \
     vendor/nokia/ara/proprietary/vendor/lib/libchromatix_ov8825_7853f_common.so:system/vendor/lib/libchromatix_ov8825_7853f_common.so \
-    vendor/nokia/ara/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/nokia/ara/proprietary/vendor/lib/libmmstillomx.so:system/vendor/lib/libmmstillomx.so \
     vendor/nokia/ara/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so \
     vendor/nokia/ara/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so \
